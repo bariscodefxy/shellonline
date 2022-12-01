@@ -1,0 +1,17 @@
+{
+    "name": "bariscodefx/shellonline",
+    "autoload": {
+        "psr-4": {
+            "shellonline\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bariscodefxy",
+            "email": "bariscodefx@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^3.0"
+    }
+}
